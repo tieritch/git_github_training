@@ -1,2 +1,3 @@
 - Tieritch ✨ — Passionate about JavaScript, NodeJS, PostgreSQL, Knex & Objections
 -Niyo   - Passionate about backend technologies such as NodeJS,expressjs
+-Niyang  - Front developper
